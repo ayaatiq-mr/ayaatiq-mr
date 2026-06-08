@@ -51,12 +51,6 @@ ________________________________________________________________________________
 
 <p align="center">⚙️ Built with passion for problem solving & clean code</p>
 
-## 👩‍💻 About Me
-...
-...
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
