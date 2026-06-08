@@ -4,22 +4,24 @@
 
 ## 🌸 Connect With Me
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://x.com/ayaatiq24">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>
 
   <a href="mailto:ayaatiq94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=ayaatiq-mr&style=for-the-badge&color=ffb6c1" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayaatiq-mr&style=for-the-badge&color=ffb6c1" height="35"/>
+</div>
 
 <h1 align="center">
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 <h3 align="center">Welcome to my GitHub profile ✨</h3>
 
 <div align="center">
